@@ -36,7 +36,7 @@
 ### 1.4 Skills
 
 | Skill | Experience | Careers | Note |
-| ------| ------------|---------|------|
+|:------:|: ------------:|:---------:|------|
 |   R   |     5년      |    3년   | data.table, tidyverse, mlr3, ggplot2, Shiny...   |
 | Pythoon |     3년    |   1년  | Pandas, Numpy, Seaborn, Polars, Scikit-learn...  |
 | SQL |  3년 | 3년  |  PostgreSQL |
@@ -73,7 +73,7 @@
 
 ### 3.1 Medical projects
 | Name | Skills | Description |
-|:------:|:-----------:|:---------:|
+|:------:|:-----------:|:---------|
 | NHIS  | R, SAS | 만성질환 평가 및 예측 모델 개발 |
 | MIMIC-IV | R, PostgreSQL| Association of Dexmedetomidine and New-onset Atrial fibrillation |
 | KSA   | R | In-hospital mortality of septic pateitns according to acute kidney disease |
@@ -81,7 +81,7 @@
 
 ### 3.2 Personal projects
 | Name | Skills | Description |
-|:------:|:-----------:|:---------:|
+|:------:|:-----------:|:---------|
 | [Papers Crawling](https://github.com/rchemist0123/crawling) | Python, Selenium, bs4, Pandas | Research paper crawler |
 | [workoutDashboard](https://yeonhoon.shinyapps.io/progressOverload/) | R, Shiny, CSS, Javascript | Workout Diary + Dashboard |
 
